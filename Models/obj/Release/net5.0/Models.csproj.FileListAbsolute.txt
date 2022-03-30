@@ -1,0 +1,12 @@
+C:\Users\José\RiderProjects\ChamadoAPI\Models\bin\Release\net5.0\Models.deps.json
+C:\Users\José\RiderProjects\ChamadoAPI\Models\bin\Release\net5.0\Models.dll
+C:\Users\José\RiderProjects\ChamadoAPI\Models\bin\Release\net5.0\Models.pdb
+C:\Users\José\RiderProjects\ChamadoAPI\Models\obj\Release\net5.0\Models.csproj.AssemblyReference.cache
+C:\Users\José\RiderProjects\ChamadoAPI\Models\obj\Release\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\RiderProjects\ChamadoAPI\Models\obj\Release\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\José\RiderProjects\ChamadoAPI\Models\obj\Release\net5.0\Models.AssemblyInfo.cs
+C:\Users\José\RiderProjects\ChamadoAPI\Models\obj\Release\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\José\RiderProjects\ChamadoAPI\Models\obj\Release\net5.0\Models.dll
+C:\Users\José\RiderProjects\ChamadoAPI\Models\obj\Release\net5.0\refint\Models.dll
+C:\Users\José\RiderProjects\ChamadoAPI\Models\obj\Release\net5.0\Models.pdb
+C:\Users\José\RiderProjects\ChamadoAPI\Models\obj\Release\net5.0\ref\Models.dll

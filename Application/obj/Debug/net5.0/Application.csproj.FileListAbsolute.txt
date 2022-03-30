@@ -1,0 +1,15 @@
+C:\Users\José\RiderProjects\ChamadoAPI\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\José\RiderProjects\ChamadoAPI\Application\bin\Debug\net5.0\Application.dll
+C:\Users\José\RiderProjects\ChamadoAPI\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\José\RiderProjects\ChamadoAPI\Application\bin\Debug\net5.0\Models.dll
+C:\Users\José\RiderProjects\ChamadoAPI\Application\bin\Debug\net5.0\Models.pdb
+C:\Users\José\RiderProjects\ChamadoAPI\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\José\RiderProjects\ChamadoAPI\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José\RiderProjects\ChamadoAPI\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\José\RiderProjects\ChamadoAPI\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\José\RiderProjects\ChamadoAPI\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\José\RiderProjects\ChamadoAPI\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\José\RiderProjects\ChamadoAPI\Application\obj\Debug\net5.0\Application.dll
+C:\Users\José\RiderProjects\ChamadoAPI\Application\obj\Debug\net5.0\ref\Application.dll
+C:\Users\José\RiderProjects\ChamadoAPI\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\José\RiderProjects\ChamadoAPI\Application\obj\Debug\net5.0\refint\Application.dll
